@@ -1,0 +1,35 @@
+.g {
+	color: green;
+}
+.r {
+	color: red;
+}
+h1{
+	color: blue;
+	font-family:"arial"
+}
+.n{
+	font-weight: bold;
+}
+.i{
+	font-style: italic;
+}
+.c{
+	text-align: center;
+}
+.parede {
+	background-color: gray
+}
+h3 {color: blue;
+	font-family: 'arial';
+	font-size: 12pt;}
+
+h1 {color: blue	;
+	font-family: 'arial';
+	font-size: 16pt;}
+
+.nomeCampo {color:black;
+	font-family: 'arial';
+	font-size: 12pt;}
+
+.bg {background-color: black;}
